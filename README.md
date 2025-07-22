@@ -1,1 +1,2 @@
-# amazon-alexa
+# amazon-alexa.tsv
+subjectivity and polarity useding
